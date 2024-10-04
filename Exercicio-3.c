@@ -8,5 +8,5 @@ int main(){
         SOMA = SOMA + K;
     }
     printf("\n SOMA = %i", SOMA); //Imprime 77
-
+        return 0;
 }//main
